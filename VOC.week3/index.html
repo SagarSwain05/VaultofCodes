@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Registration Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="title">Registration Form</div>
+        <form action="#">
+            <div class="user-details">
+                <div class="input-box">
+                    <span class="details">Full Name:</span>
+                    <input type="text" placeholder="Ram Singh" required>
+                </div>
+                <div class="input-box">
+                    <span class="details">Username:</span>
+                    <input type="text" placeholder="ram_1234" required>
+                </div>
+                <div class="input-box">
+                    <span class="details">Email:</span>
+                    <input type="email" placeholder="example@example.com" required>
+                </div>
+                <div class="input-box">
+                    <span class="details">Phone Number:</span>
+                    <input type="text" placeholder="7009273890" required>
+                </div>
+                <div class="input-box">
+                    <span class="details">Password:</span>
+                    <input type="password" placeholder="*******" required>
+                </div>
+                <div class="input-box">
+                    <span class="details">Confirm Password:</span>
+                    <input type="password" placeholder="*******" required>
+                </div>
+                <div class="input-box">
+                    <span class="details">Date Of Birth:</span>
+                    <input type="date" placeholder="mm/dd/yyyy" required>
+                </div>
+                
+                <div class="input-box">
+                    <label>Gender :</label>
+                    <select id="gender" name="gender" required>
+                        <option value="" disabled selected>Select your gender</option>
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+                </div>
+                <div class="input2-box">
+                    <input type="checkbox" id="terms" name="terms" required>
+                    <label for="terms">I agree to the <a href="#">Terms and Conditions</a></label>
+                </div>
+                <div class="button">
+                <input type="submit"  value="Register">
+                </div>
+            </div>
+
+        </form>
+    </div>
+    </div>
+
+    
+</body>
+</html>
