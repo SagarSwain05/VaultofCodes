@@ -1,18 +1,17 @@
 # VAULT_OF_CODES_INTERNSHIP
-   In this internship that's provided by Octanet internship for the August month. Here in this internship i've done many projects like Landing page, To-Do list etc.
- These projects are made with web developing language like HTML, CSS & Javascript. Creating these web pages can add more experience to my frontend development work.
+   In this internship that's provided by Octanet internship for the August month. Here in this internship i've done many projects like Portfolio page, Internship task page, Regd from etc.
+ These projects are made with web developing language like HTML, CSS & Javascript. Creating these web pages added more experience to my frontend development work.
  Here the project details are given below.
 
 <details close>
-<summary>Landing Page</summary>
+<summary>Portfolio </summary>
   
 ## Overview
 
-Welcome to the Landing Page repository! This project is designed to create a modern and responsive landing page for Octanet_Internship. The landing page is built with HTML, CSS, JavaScript etc. and aims to provide an engaging and informative user experience.
+In the Portfolio repository! This project is designed to create a modern and responsive portfolio design of me as the 1st week task Internship. The portfolio is built with HTML, CSS, JavaScript. and aims to give the complete details of the person. In the porfolio you can add your experience, education, skills & other details.
 
 ## Demo
 
-https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-javascript-activity-7227673918981988355-0fdk?utm_source=share&utm_medium=member_desktop
 
 ## Features
 
