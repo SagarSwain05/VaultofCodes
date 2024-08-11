@@ -12,6 +12,7 @@ In the Portfolio repository! This project is designed to create a modern and res
 
 ## Demo
 
+https://www.linkedin.com/posts/sagar-swain-b6b6b3286_vaultofcodes-activity-7215418565028380672-CW76?utm_source=share&utm_medium=member_desktop
 
 ## Features
 
@@ -27,14 +28,14 @@ In the Portfolio repository! This project is designed to create a modern and res
 
 </details>
 <details close>
-<summary>To-Do List</summary>
+<summary>Internship Task Page</summary>
   
 ## Overview
-
-In this To-Dolist repository of Octanet_internship. This project is designed to create a page where we can add task, delete task, edit task & mark as complete after completion of task. This To-Do list page is built with HTML, CSS, JavaScript etc. and aims to provide worthful user experience.
+Vault of codes has given task to make the Internship task page which contains internship offers. In this task we had created a simple page where we created the cards where the internship offers are present & other details about internships where the user can find the complete details of these. The cards are responsive & pop up when they are selected.Apply buttons are given & HTML,CSS,Javascript are used.
 
 ## Demo
 
+https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-vaultofcodes-activity-7217955766169653250-vFUQ?utm_source=share&utm_medium=member_desktop
 
 
 ## Features
