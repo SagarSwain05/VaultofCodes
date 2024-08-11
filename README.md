@@ -88,3 +88,31 @@ https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-vaultofcodes-activ
 
 </details>
 
+<details close>
+<summary>To-Do LIst</summary>
+  
+## Overview
+ As the final week task we had created a To-Do list page where we created task bar. Here we can add the tasks and edit &delete the tasks.
+
+## Demo
+
+https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-javascript-activity-7225154715162923008-ukV2?utm_source=share&utm_medium=member_desktop
+
+## Features
+
+1. Input Field: A text input field where users can type their tasks.
+2. Add Button: A button that allows users to add the typed task to the list.
+3. Task DisplayTask List: A dynamically generated list of tasks. Each task is displayed as an individual item in the list.
+4. Styling for Tasks: CSS styles to differentiate tasks, such as different colors or fonts.
+5. Task ManagementMark as Completed: Checkbox or strike-through to mark tasks as completed. Completed tasks can be styled differently (e.g., crossed out).
+6. Edit Tasks: Ability to edit tasks after they are added to the list.
+7. Delete Tasks: A delete button/icon next to each task to remove it from the list.
+
+
+## Technology
+
+- HTML
+- CSS
+- Java script
+
+</details>
