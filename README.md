@@ -1,7 +1,7 @@
 # VAULT_OF_CODES_INTERNSHIP
    i had joined the vault of task as a web development intern for 1 month. Here in this internship i've done many projects like Portfolio page, Internship task page, Regd from etc. in the 4 weeks of task.
  These projects are made with web developing language like HTML, CSS & Javascript. Creating these web pages added more experience to my frontend development work.
- Here the project details are given below.
+ Here the 4 weeks project details are given below.
 
 <details close>
 <summary>Portfolio </summary>
