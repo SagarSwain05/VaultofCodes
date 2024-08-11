@@ -16,9 +16,12 @@ https://www.linkedin.com/posts/sagar-swain-b6b6b3286_vaultofcodes-activity-72154
 
 ## Features
 
-- **Responsive Design**: Fully responsive and works on all devices (mobile, tablet, desktop).
-- **Customizable**: Easily customizable to fit your brand's needs.
-- **Fast Loading**: Optimized for speed and performance.
+1. Personal Information : Name and Contact Details: Your name, phone number, email address, and other relevant contact information.Professional Summary: A brief introduction that highlights your career goals, strengths, and what makes you unique.
+2. Resume or CVA detailed overview of your work experience, education, skills, and certifications.Key achievements and responsibilities in previous roles.
+3. Work SamplesProject Examples: Demonstrations of your best work, relevant to the job or field you’re applying for.Case Studies: Detailed descriptions of specific projects, including your role, challenges, solutions, and outcomes.
+Links to Online Work: For digital portfolios, links to websites, videos, articles, or other online content you’ve created.
+4. Skills SectionTechnical Skills: Proficiencies in software, tools, or languages relevant to your field.Soft Skills: Interpersonal skills, teamwork, leadership, communication, etc.
+5. Educational BackgroundDegrees, certifications, and relevant coursework.Institutions attended and dates of completion.
 
 ## Technology
 
