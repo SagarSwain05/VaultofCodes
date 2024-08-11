@@ -58,3 +58,33 @@ https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-vaultofcodes-activ
 
 </details>
 
+<details close>
+<summary>Internship Task Page</summary>
+  
+## Overview
+ In the 3rd week task we had created a simple Registration page where we created some placeholder like Name, E-mail, contact details etc. There's also the password section for the registration & user authentication. The register icon & terms condn icons are given to complete the registration. This is also responsive according to the user device.
+
+## Demo
+
+https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-vaultofcodes-activity-7224276163089641472-nPhd?utm_source=share&utm_medium=member_desktop
+
+## Features
+
+1. Text Inputs: For user details like name, username, and email.
+2. Password Input: Secure password field with masked input.
+3. Confirm Password: To ensure the user enters the same password twice.
+4. Dropdown Menus: For selecting options like gender or country.
+5. Checkboxes: For terms and conditions agreement or subscribing to newsletters.
+6. Radio Buttons: For selecting one option from a set, like gender.
+7. Submit Button: To send the registration data to the server.
+8. Organized layout using CSS Flexbox or Grid for a clean and responsive design.
+
+
+## Technology
+
+- HTML
+- CSS
+- Java script
+
+</details>
+
