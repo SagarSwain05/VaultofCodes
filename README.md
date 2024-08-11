@@ -43,9 +43,12 @@ https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-vaultofcodes-activ
 
 ## Features
 
-- **Responsive Design**: Fully responsive and works on all devices (mobile, tablet, desktop).
-- **Customizable**: Easily customizable to fit your needs.
-- **Fast Loading**: Optimized for speed and performance.
+1. Job Title: Clearly displayed for each internship offer.
+2. Short Description: A brief overview of the role, responsibilities, and required skills.
+3. Location: Where the internship will take place (e.g., Remote, New York, etc.).
+4. Application Deadline: The last date to apply for the internship.
+5. Apply Button: A button for each listing that leads to the detailed job description or application form.
+6. Responsive Layout: The layout should adjust fluidly to different screen sizes.
 
 ## Technology
 
