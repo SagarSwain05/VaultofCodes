@@ -1,5 +1,5 @@
 # VAULT_OF_CODES_INTERNSHIP
-   In this internship that's provided by Octanet internship for the August month. Here in this internship i've done many projects like Portfolio page, Internship task page, Regd from etc.
+   i had joined the vault of task as a web development intern for 1 month. Here in this internship i've done many projects like Portfolio page, Internship task page, Regd from etc.
  These projects are made with web developing language like HTML, CSS & Javascript. Creating these web pages added more experience to my frontend development work.
  Here the project details are given below.
 
