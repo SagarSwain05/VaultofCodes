@@ -59,7 +59,7 @@ https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-vaultofcodes-activ
 </details>
 
 <details close>
-<summary>Internship Task Page</summary>
+<summary>Registration Form</summary>
   
 ## Overview
  In the 3rd week task we had created a simple Registration page where we created some placeholder like Name, E-mail, contact details etc. There's also the password section for the registration & user authentication. The register icon & terms condn icons are given to complete the registration. This is also responsive according to the user device.
