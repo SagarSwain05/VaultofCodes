@@ -108,7 +108,6 @@ https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-javascript-activit
 6. Edit Tasks: Ability to edit tasks after they are added to the list.
 7. Delete Tasks: A delete button/icon next to each task to remove it from the list.
 
-
 ## Technology
 
 - HTML
