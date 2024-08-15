@@ -6,7 +6,7 @@
 <details close>
 <summary>Portfolio </summary>
   
-## Overview.
+## Overview
 
 In the Portfolio repository! This project is designed to create a modern and responsive portfolio design of me as the 1st week task Internship. The portfolio is built with HTML, CSS, JavaScript. and aims to give the complete details of the person. In the porfolio you can add your experience, education, skills & other details.
 
